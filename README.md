@@ -1,1 +1,1 @@
-# Genz-Mom_text_analysis
+# Analysis of good number of WhatsApp messages between young adults (ages 22-25) and their mothers to explore communication patterns, emotional tone, and relational dynamics while ensuring privacy and confidentiality by using various machine learning frameworks.
